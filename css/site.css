@@ -283,8 +283,8 @@ html[data-theme="dark"] .status-badge .dot {
   width: 100%;
   aspect-ratio: 4 / 5;
   object-fit: cover;
+  object-position: top;
   border: 1px solid var(--line);
-  background: var(--bg-raised);
 }
 
 /* ---------- section shell ---------- */
